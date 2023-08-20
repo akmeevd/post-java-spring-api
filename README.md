@@ -1,7 +1,8 @@
 # test project for tracking mailing between posts
 
 ## stack:
-![shield](https://img.shields.io/badge/java-red-spring_boot-green)
+![shield](https://img.shields.io/badge/java-spring_boot-green)
+
 ![shield](https://img.shields.io/badge/postgres-blue)
 
 ## running:
