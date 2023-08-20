@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file:
+        liquibase/sql/scheme.sql
