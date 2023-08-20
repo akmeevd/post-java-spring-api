@@ -11,5 +11,5 @@
 3. to get interface enter in browser ```http://localhost:8080/swagger-ui/index.html```
 
 ### requierements for t3:
-[X] ![dir](src/main/resources/requierements/test-coverage.png)
-[X] ![dir](src/main/resources/requierements/api-docs.yaml)
+- ![dir](src/main/resources/requierements/test-coverage.png)
+- [dir](src/main/resources/requierements/api-docs.yaml)
